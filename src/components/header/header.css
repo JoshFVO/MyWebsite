@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    color:lightgrey
+}
